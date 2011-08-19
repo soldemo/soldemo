@@ -1,6 +1,6 @@
 ahoj 1
 ahoj 2
-ahoj bib
+ahoj bib conflict
 ahoj 4
 ahoj 5
 
