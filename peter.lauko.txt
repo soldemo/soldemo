@@ -1,7 +1,7 @@
-ahoj 10
-ahoj 20
-ahoj 30
-ahoj 40
-ahoj 50
+ahoj 101
+ahoj 201
+ahoj 301
+ahoj 401
+ahoj 501
 
 
