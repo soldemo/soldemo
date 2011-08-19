@@ -1,0 +1,7 @@
+ahoj 10
+ahoj 20
+ahoj 30
+ahoj 40
+ahoj 50
+
+
