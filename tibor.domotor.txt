@@ -2,7 +2,7 @@ ahoj 1
 ahoj 2
 ahoj bib conflict
 ahoj 4
-ahoj 5
+ahoj 5 ezt most ideirom vazze (qt)
 ahoj magnum
 hehe
 
