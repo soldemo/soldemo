@@ -3,3 +3,5 @@ mod by ik (test)
 mod no commit
 rebase-hez
 mster version
+pzs
+szeretem a git-et!!!
