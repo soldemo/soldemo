@@ -1,3 +1,5 @@
 modositva
 én is beleírtam..
 rebase teszthez új sor
+pzs
+szeretem a git-et!!!
