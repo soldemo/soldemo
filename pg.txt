@@ -9,3 +9,4 @@ szeretem a git-et!!!
 modositva668889 - ideírok egy kicsit a masterban
 sõt, ezt is a tesztben írom bele
 na még egy sort ideírok a testben, jó nagy konfliktus lesz itten
+sola pszichozis
