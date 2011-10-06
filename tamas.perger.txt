@@ -1,2 +1,7 @@
-Teszt file:
-tamas.perger.txt
+tamasperger_txt...
+
+Elso sor torolve, masodik sor modositva, uj sorok hozzaadva
+x
+xx
+xxx
+xxxx
