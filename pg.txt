@@ -4,10 +4,11 @@ mod no commit
 rebase-hez
 mster version
 modositva668889 - ideírok egy kicsit a masterban
-pzs
+pzs gittegylet
 szeretem a git-et!!!
 modositva668889 - ideírok egy kicsit a masterban
 sõt, ezt is a tesztben írom bele
 na még egy sort ideírok a testben, jó nagy konfliktus lesz itten
 Johnny Gold is here, ez a jó hír!
 sola pszichozis
+gittegylet
