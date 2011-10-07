@@ -1,4 +1,6 @@
+elso sor bele test-en rebase-hez
 xx
-yy ezt a sort szerkesztem
+yy ezt a sort szerkesztem rebase-hez
 uj sor bele, az elso sort torlom
+uj sor rebase-hez
 master módosít
